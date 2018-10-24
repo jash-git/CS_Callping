@@ -1,0 +1,6 @@
+C:\Users\RD\AppData\Local\Temporary Projects\CS_Callping\bin\Debug\CS_Callping.exe
+C:\Users\RD\AppData\Local\Temporary Projects\CS_Callping\bin\Debug\CS_Callping.pdb
+C:\Users\RD\AppData\Local\Temporary Projects\CS_Callping\obj\x86\Debug\CS_Callping.exe
+C:\Users\RD\AppData\Local\Temporary Projects\CS_Callping\obj\x86\Debug\CS_Callping.pdb
+C:\Users\RD\Desktop\CS_Callping\CS_Callping\obj\x86\Debug\CS_Callping.exe
+C:\Users\RD\Desktop\CS_Callping\CS_Callping\obj\x86\Debug\CS_Callping.pdb

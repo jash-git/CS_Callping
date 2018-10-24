@@ -1,0 +1,4 @@
+C:\Users\RD\AppData\Local\Temporary Projects\CS_Callping\bin\Release\CS_Callping.exe
+C:\Users\RD\AppData\Local\Temporary Projects\CS_Callping\bin\Release\CS_Callping.pdb
+C:\Users\RD\AppData\Local\Temporary Projects\CS_Callping\obj\x86\Release\CS_Callping.exe
+C:\Users\RD\AppData\Local\Temporary Projects\CS_Callping\obj\x86\Release\CS_Callping.pdb
