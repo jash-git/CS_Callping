@@ -1,0 +1,6 @@
+C:\Users\jashliao\Desktop\CS_Callping\CS_Callping\bin\Debug\CS_Callping.exe.config
+C:\Users\jashliao\Desktop\CS_Callping\CS_Callping\bin\Debug\CS_Callping.exe
+C:\Users\jashliao\Desktop\CS_Callping\CS_Callping\bin\Debug\CS_Callping.pdb
+C:\Users\jashliao\Desktop\CS_Callping\CS_Callping\obj\Debug\CS_Callping.csprojResolveAssemblyReference.cache
+C:\Users\jashliao\Desktop\CS_Callping\CS_Callping\obj\Debug\CS_Callping.exe
+C:\Users\jashliao\Desktop\CS_Callping\CS_Callping\obj\Debug\CS_Callping.pdb
